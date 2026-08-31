@@ -1,2 +1,3 @@
-# age-of-ai
-Hier befinden sich die HTML Datei die genutzt worden ist, um eine Fehleranalyse im weiteren Sinne darzustellen.
+Falls du die Dateien lokal auf deinem PC nutzen oder anpassen möchtest:
+1. Lade das Repository als ZIP herunter und entpacke es.
+2. Öffne die Datei `index.html` per Doppelklick in einem beliebigen Webbrowser.
