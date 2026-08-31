@@ -1,2 +1,2 @@
 # age-of-ai
-Hier befinden sich generierte Dateien, die für die Hausarbeit genutzt worden sind.
+Hier befinden sich die HTML Datei die genutzt worden ist, um eine Fehleranalyse im weiteren Sinne darzustellen.
